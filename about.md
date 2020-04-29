@@ -11,9 +11,7 @@ I’m a soil ecologist with a special interest in the effects of microscale soil
 
 ### Research areas and keywords
 
-Ecology, Microbiology
-
-soil fertility, climate change, soil carbon storage, soil chip, mycorrhiza, synchrotron
+Ecology, microbiology, soil fertility, climate change, soil carbon storage, soil chip, mycorrhiza, synchrotron
 
 ### More Information
 
