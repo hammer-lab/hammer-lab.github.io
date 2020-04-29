@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-### Publications
-
 ### Journal articles
 
 Synergies between mycorrhizal fungi and microbial communities increase plant nitrogen acquisition
