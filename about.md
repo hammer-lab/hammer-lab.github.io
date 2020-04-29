@@ -23,7 +23,7 @@ Researcher at [Centre for Environmental and Climate Research (CEC)](https://www.
 
 ### Contact me
 
-!({{ site.baseurl }}/images/edith-email.png)
+![]({{ site.baseurl }}/images/edith-email.png)
 
 [My profile in Lund University research portal](https://portal.research.lu.se/portal/en/persons/edith-hammer(d6a9e345-c1a1-4966-b5c4-80e38efbcc6d).html)
 
