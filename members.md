@@ -16,6 +16,6 @@ Spöket Laban
 
 ### Previous members
 
-Kristin
+[Kristin Aleklett](https://www.linkedin.com/in/aleklett/)
 
 Spöket Labolina
