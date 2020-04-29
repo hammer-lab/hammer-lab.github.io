@@ -12,6 +12,8 @@ Carlos
 
 Mikaela
 
+[Pelle Ohlsson](https://www.linkedin.com/in/pelleohlsson/)
+
 Spöket Laban
 
 ### Previous members
